@@ -1,16 +1,6 @@
 # Morse Code Translator
 This project is a Morse Code Translator written in C++. It takes a text input file and converts each letter into Morse code using a Binary Search Tree (BST) for fast lookup. The program outputs the translated Morse code into an output file.
 
-# Table of Contents
-Project Overview
-Features
-File Structure
-How to Use
-Input and Output
-Dependencies
-Compilation and Execution
-License
-
 # Project Overview
 The Morse Code Translator reads characters from a text file, converts each character to its corresponding Morse code, and writes the translation to an output file. The Morse code mappings are stored in a Binary Search Tree, which allows efficient character lookup.
 
