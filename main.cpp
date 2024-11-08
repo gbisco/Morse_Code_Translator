@@ -25,7 +25,7 @@ int main(void) {
         return 1;
     }
 
-    morseTree.print(); // This will display the Morse code tree in the console
+    morseTree.print(); // displays the Morse code tree in the console
 
     // Translate each line in the input file
     while (getline(ifile, str)) {
